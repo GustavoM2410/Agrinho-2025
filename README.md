@@ -16,7 +16,11 @@ O objetivo que as pessoas usem mais a sua imaginação para criar algo.
 #Projéto:
 *consiste em que você tem que usar sua imaginação para fazer o que você quiser.
 
-Descrição :
+Informações :
 *Usei a inteligencia artificial para poder me ajudar.
 
- * e também pedi ajuda há professora.
+ * E também pedi ajuda há professora.
+
+
+
+
